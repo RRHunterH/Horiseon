@@ -107,6 +107,8 @@ section h2 {
     margin-left: 20px;
 }
 
+/* Getting the column is the correct spot of the webpage, having the correct font & background color*/
+
 .benefits {
     width: 20%;
     margin-right: 20px;
@@ -115,6 +117,8 @@ section h2 {
     background-color: #2589bd;
     float: right;
 }
+
+/* Making sure there is ample amount of space between each column and has the correct color */
 
 .benefit-lead,
 .benefit-brand,
@@ -129,6 +133,8 @@ section h2 {
     margin-bottom: 10px;
     text-align: center;
 }
+
+/* Having the images display & be the correct size*/
 
 .benefit-lead img,
 .benefit-brand img,
